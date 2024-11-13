@@ -1,0 +1,9 @@
+product_id,	name,	category,	price
+1,	Smartphone 6",	Electronics,	15000
+2,	Laptop 15" Pro,	Electronics,	60000
+3,	Bluetooth Headphones,	Electronics,	8000
+4,	E-Book Reader,	Electronics,	12000
+5,	Smartwatch Fitness Tracker,	Wearable Tech,	5000
+6,	Portable Bluetooth Speaker,	Electronics,	7000
+7,	Digital SLR Camera,	Photography,	40000
+8,	Wireless Earbuds,	Wearable Tech,	3000
